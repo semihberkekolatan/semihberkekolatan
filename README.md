@@ -23,11 +23,11 @@ Web ve mobil uygulama geliştirme, nesnelerin interneti (IoT), yapay zekâ enteg
   IP tabanlı brute-force engelleme (3 hatalı girişte süreli kısıtlama), `bcrypt` parola özetleme ve denetim kayıtları (audit log) içeren çift mimarili kimlik doğrulama sistemi.  
   `TypeScript` · `React` · `Express` · `SQLite` · `PHP` · `MySQL`
 
-- 💰 **[Kişisel Finans ve Harcama Takip Sistemi](https://github.com/semihberkekolatan/SemihKolatan_24097002_BST)**  
+- 💰 **[Kişisel Finans ve Harcama Takip Sistemi](https://github.com/semihberkekolatan/kisisel-finans-takip)**  
   Nesne yönelimli Python mimarisiyle gelir-gider takibi yapan, `Pandas` & `NumPy` ile finansal analiz yürüten ve `Matplotlib` / `Seaborn` ile grafiksel raporlar üreten uygulama.  
   `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
-- 🗄️ **[Üniversite Kütüphane Yönetim Sistemi (SQL)](https://github.com/semihberkekolatan/kutuphane-veritabani-sql)** · 🔑 **[DES Alt Anahtar Üretici (C++)](https://github.com/semihberkekolatan/DES_Subkey)** · 🌐 **[Kişisel Portfolyo](https://github.com/semihberkekolatan/24097002_Semih_Berke_Kolatan_Quiz)**
+- 🗄️ **[Üniversite Kütüphane Yönetim Sistemi (SQL)](https://github.com/semihberkekolatan/kutuphane-veritabani-sql)** · 🔑 **[DES Alt Anahtar Üretici (C++)](https://github.com/semihberkekolatan/DES_Subkey)** · 🌐 **[Kişisel Portfolyo](https://github.com/semihberkekolatan/kisisel-portfolyo)**
 
 - 🎮 **Devam Eden Çalışmalar:** Aktif olarak bir **oyun geliştirme** projesi üzerinde çalışıyor, aynı zamanda Hülasa'nın öğrenme yönetim sistemleriyle (ALMS) entegrasyonunu kurguluyorum.
 
