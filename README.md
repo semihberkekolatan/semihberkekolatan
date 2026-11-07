@@ -1,7 +1,7 @@
 # Merhaba, ben Semih Berke Kolatan 👋
 
 **Kapadokya Üniversitesi — Bilişim Sistemleri ve Teknolojileri (3. Sınıf)** öğrencisiyim.  
-Web ve mobil uygulama geliştirme, nesnelerin interneti (IoT), yapay zekâ entegrasyonları, veritabanı mimarisi ve oyun geliştirme alanlarında projeler üretiyorum. Şu anda teknik birikimimi gerçek ürünlerde geliştirebileceğim bir **yazılım geliştirme stajı** arıyorum.
+Web ve mobil uygulama geliştirme, nesnelerin interneti (IoT), yapay zekâ entegrasyonları, veritabanı mimarisi ve oyun geliştirme alanlarında projeler üretiyorum. Yeni teknolojileri deneyimleyerek uçtan uca çalışan projeler üretmeye odaklanıyor; teknik gelişimimi gerçek ürünlerde ileri taşıyabileceğim ekip çalışmalarına ve staj fırsatlarına açık olarak üretmeye devam ediyorum.
 
 ---
 
